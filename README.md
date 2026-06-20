@@ -1,4 +1,4 @@
-ABRAXAS
+# ABRAXAS
 
 Final Declaration
 
@@ -82,7 +82,7 @@ Wander Leonardo Fuertes Felix
 
 Founder, Creator and Architect of ABRAXAS
 
-Human Intelligence + Artificial Intelligence = Human Infinity
+## Human Intelligence + Artificial Intelligence = Human Infinity
 
 "Education before Power. Responsibility before Action. Cooperation before Confrontation."
 
