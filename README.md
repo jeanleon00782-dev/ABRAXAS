@@ -1,5 +1,14 @@
 # ABRAXAS
 
+## Summary
+
+ABRAXAS is an educational initiative focused on helping people understand, use, and cooperate responsibly with Artificial Intelligence.
+
+The project promotes AI literacy, critical thinking, human responsibility, transparency, and constructive Human–AI collaboration.
+
+Its goal is to help prepare humanity for a future where humans and intelligent systems work together for the benefit of society.
+
+
 ## Final Declaration
 
 We stand at the beginning of a new era.
